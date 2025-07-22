@@ -181,7 +181,7 @@ gPikachuIntro_Text_Page3::
     .string "Through this activity, we hope\n"
     .string "that you will keep your passion to\n"
     .string "make games and challenge yourself.\n"
-    .string "You can do it Step Up students!\n"
+    .string "You can do it Step Forward students!\n"
     .string "\n"
     .string "Press the A Button, and let your\n"
     .string "adventure begin!$"
